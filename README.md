@@ -2,13 +2,11 @@
 
 > A Vue.js project
 
-## Build Setup
+## 简介
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+内容包括头部搜索栏，城市选择，点击城市字母跳转城市列表
+轮播图未做跳转功能
+热门景点点击可跳转该景点详情
+展示图片采用相同模块，点击图片进入轮播切换效果，再点击退出
+因为数据资源有限，无法做出更多效果
+可能会更新
